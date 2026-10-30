@@ -178,3 +178,4 @@ for batch in datagen.flow(training_images, batch_size=1):
         break
 
 plt.show()
+
