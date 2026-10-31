@@ -117,3 +117,6 @@ diffusion_model.fit(x_train_noisy, x_train,
                     batch_size=64,
                     shuffle=True,
                     validation_data=(x_test_noisy, x_test))
+
+
+print("test")
